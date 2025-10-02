@@ -48,8 +48,8 @@ I build **clean and maintainable web applications** and I keep learning every da
 ## 🚀 What I am building next
 - **[Flask Notes](https://github.com/MaxEmdeWorks/flask-notes)**
   - **Live demo:** https://flask-notes-0emy.onrender.com/ - first request may take up to a minute while the service spins up
-  - **Now:** Authentication with Flask-Login, Google reCAPTCHA v2, CSRF protection, user-specific notes, full CRUD with modal editing, pagination and search, dark and light theme with system preference detection, mobile offcanvas navigation, improved Bootstrap layout, PostgreSQL with SQLAlchemy (Flask-SQLAlchemy) and SQLite for tests, Flask-Migrate, pytest CI, CLI, env config, blueprint architecture
-  - **Next:** Admin panel for user management and stats, multi-language system, dark mode, screenshots and GIFs
+  - **Now:** Authentication with Flask-Login, Google reCAPTCHA v2, CSRF protection, user-specific notes, full CRUD with modal editing, pagination and search, i18n (multi-language), dark & light theme with system preference detection, mobile offcanvas navigation, improved Bootstrap layout, PostgreSQL with SQLAlchemy (Flask-SQLAlchemy) and SQLite for tests, Flask-Migrate, pytest CI, CLI, env config, blueprint architecture, **note archiving (archive/unarchive)**
+  - **Next:** Admin panel for user management and stats, screenshots and GIFs
 
 
 - **Tasks REST API** with JWT auth, pagination, OpenAPI spec, small sample client
