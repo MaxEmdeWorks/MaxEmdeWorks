@@ -51,6 +51,10 @@ I build **clean and maintainable web applications** and I keep learning every da
   - **Now:** Authentication with Flask-Login, Google reCAPTCHA v2, CSRF protection, user-specific notes, note categories, full CRUD with modal editing, pagination and search, i18n (multi-language), dark & light theme with system preference detection, mobile offcanvas navigation, improved Bootstrap layout, PostgreSQL with SQLAlchemy (Flask-SQLAlchemy) and SQLite for tests, Flask-Migrate, pytest CI, CLI, env config, blueprint architecture, note archiving (archive/unarchive), rate limiting with Flask-Limiter (global and per-route)
   - **Next:** Redis support for rate limiting in production, Admin panel for user management and stats, screenshots and GIFs
 
+- **[React DMS](https://github.com/MaxEmdeWorks/react-dms)**
+  - **Now:** React + Vite + Tailwind frontend, Flask API backend, CRUD for documents (title, tags), simple search, status-based archive/restore, pagination-ready structure, PostgreSQL via SQLAlchemy, CORS for local dev, basic GitHub Actions CI
+  - **Next:** Authentication with Flask-Login, role-based access & shareable links, advanced filters/sort, bulk actions, tests (pytest + React Testing Library), seed/demo data & screenshots/GIFs
+
 
 - **Tasks REST API** with JWT auth, pagination, OpenAPI spec, small sample client
 
